@@ -7,4 +7,4 @@ litros = tamanho / 3
 
 latas = litros / 18
 
-print(f"Vai precisar de {latas} lata(s) e custará {latas * 80}.")
+print(f"Vai precisar de {latas} lata(s) e custará R${latas * 80}.")
